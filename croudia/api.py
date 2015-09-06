@@ -26,5 +26,3 @@ class API:
             return self.do('post', '/oauth/token',
             {'grant_type': grant_type, 'client_id': client_id, 'client_secret': client_secret, 'refresh_token': refresh_token})
 
-    def do(self, method, url, args={}):
-        pass
