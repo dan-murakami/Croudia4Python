@@ -1,5 +1,5 @@
 # Croudia4Python
-An API Wrapper for Python 3.x
+A Croudia's API Wrapper for Python 3.x
 
 ## Requirements
 - [requests](http://requests-docs-ja.readthedocs.org/en/latest/)
